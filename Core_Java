@@ -1,0 +1,35 @@
+Green Project (1991): Started at Sun Microsystems.
+Developed by James Gosling and his team.
+Initially developed for electronic devices and embedded systems.
+The language was initially named Oak.
+Later, Oak was renamed Java due to trademark issues.
+Java was officially announced in 1995.
+JDK 1.0 was released on January 23, 1996.
+Write Once, Run Anywhere (WORA)
+Java is a platform-independent language.
+Java code is compiled into bytecode.
+Bytecode can run on any operating system with JVM.
+The same program can run on Windows, Linux and macOS without modification.
+__________
+Java 8 (2014): Introduced Lambda Expressions and Stream API.
+Java 11 (2018): Introduced HTTP Client and new String methods.
+Java 17 (2021): Introduced Sealed Classes.
+Java 21 (2023): Introduced Virtual Threads and Sequenced Collections.
+Java 25 (2025): Introduced Compact Source Files and Instance Main Methods.
+__________
+Numeric data types: 
+Byte , Int , long , double , float
+String data types:
+String,char
+Boolean data type:
+Boolean(true or false)
+_________
+Rules for Declaring Variables in Java:
+Variable names must begin with a letter, underscore (_) or dollar sign ($).
+Variable names cannot start with a digit.
+Spaces are not allowed in variable names.
+Java keywords cannot be used as variable names.
+Variable names are case-sensitive.
+Special characters are not allowed except _ and $.
+A variable must be declared with a data type.
+_________
